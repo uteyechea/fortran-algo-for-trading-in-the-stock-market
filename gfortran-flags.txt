@@ -1,0 +1,1 @@
+gfortran argonaut.f08 -ffree-form -ffree-line-length-0 -fimplicit-none -std=f2008 -fcheck=mem -o argonaut
